@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dhanushvarman J — Frontend Developer</title>
+  <desc id="desc">React and React Native. Offline apps, maps and data visualization.</desc>
+  <rect width="1280" height="360" rx="20" fill="#eef4f1"/>
+  <path d="M850 0V360M970 0V360M1090 0V360M1210 0V360M800 60H1280M800 180H1280M800 300H1280" stroke="#dce5e0" stroke-width="1"/>
+  <rect x="56" y="52" width="34" height="5" rx="2.5" fill="#11764f"/>
+  <text x="56" y="104" fill="#53665d" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">FRONTEND DEVELOPER</text>
+  <text x="52" y="180" fill="#142b21" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Dhanushvarman J</text>
+  <text x="56" y="229" fill="#11764f" font-family="Arial, Helvetica, sans-serif" font-size="25">React &amp; React Native</text>
+  <text x="56" y="298" fill="#465d50" font-family="Arial, Helvetica, sans-serif" font-size="21">Offline apps. Interactive maps. Data visualization.</text>
+  <path d="M895 247H947Q970 247 970 224V137Q970 114 993 114H1048Q1071 114 1071 137V157Q1071 180 1094 180H1174" fill="none" stroke="#11764f" stroke-width="3"/>
+  <path d="M1012 270L1057 235L1096 253L1139 207L1174 220" fill="none" stroke="#3376ac" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#eef4f1" stroke="#11764f" stroke-width="3">
+    <circle cx="895" cy="247" r="9"/><circle cx="1028" cy="114" r="9"/><circle cx="1174" cy="180" r="9"/>
+  </g>
+  <circle cx="1139" cy="207" r="5" fill="#3376ac"/>
+</svg>
