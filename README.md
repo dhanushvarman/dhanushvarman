@@ -17,6 +17,8 @@ With **3+ years of frontend experience**, my work spans energy auditing, traffic
 
 **My focus:** offline capabilities and data synchronization · interactive maps and charts · reliable web and mobile experiences
 
+[Selected work](#selected-professional-work) · [Explore my code](#explore-my-code) · [Technologies](#technologies-i-work-with) · [Contact](#lets-connect)
+
 ## Selected professional work
 
 ### IEAC · Energy audit platform
