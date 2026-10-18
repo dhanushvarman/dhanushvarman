@@ -4,87 +4,66 @@
   <img alt="Dhanushvarman J — Frontend Developer. React, React Native, offline apps, maps and data visualization." src="assets/banner-light.svg" width="100%">
 </picture>
 
-<p>
-  <a href="https://www.linkedin.com/in/dhanushvarman-j-51b827180/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:dhanushvarmanj@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="assets/Dhanush_Resume.pdf">Resume</a> &nbsp;·&nbsp;
-  Chennai, India
-</p>
+I’m **Dhanushvarman J**, a frontend developer with **3+ years of experience** building React and React Native applications. I focus on offline field tools, interactive maps, and data visualization, with experience leading projects from client discussions through delivery and user training.
 
-I build **React and React Native applications** that help people collect data in the field, understand complex information, and manage everyday operations.
+**Chennai, India** · [Resume](assets/Dhanush_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/dhanushvarman-j-51b827180/) · [Email](mailto:dhanushvarmanj@gmail.com)
 
-With **3+ years of frontend experience**, my work spans energy auditing, traffic monitoring, research visualization, and routing simulations. I work across implementation, client discussions, feature planning, and product walkthroughs.
+[Selected work](#selected-work) · [Skills](#skills) · [Experience](#experience)
 
-**My focus:** offline capabilities and data synchronization · interactive maps and charts · reliable web and mobile experiences
+## Selected work
 
-[Selected work](#selected-professional-work) · [Technologies](#technologies-i-work-with) · [Contact](#lets-connect)
-
-## Selected professional work
-
-Professional projects are presented as experience summaries, without source code or links to internal systems.
+Professional contributions, summarized without source code or links to internal systems.
 
 ### IEAC · Energy audit platform
 **Team Lead & Frontend Developer**
 
-An energy audit platform built for auditors working across web and mobile.
-
-- Led project delivery, client communication, and feature planning.
-- Built the React Native audit app with offline data collection and synchronization.
-- Supported web and mobile releases, auditor training, and product walkthroughs.
+- Built React Native audit workflows with offline data collection and synchronization for field auditors.
+- Led feature planning and client communication, supported web and mobile releases, and conducted auditor training.
 
 ### GCTP · Chennai traffic monitoring
 **Project Owner & Frontend Lead**
 
-Web and mobile applications supporting traffic monitoring and incident reporting across Chennai.
-
-- Developed **Leaflet** map interfaces for traffic and location visualization.
-- Built mobile reporting workflows supporting field officers and control-room teams.
-- Worked directly with officers to understand operational needs and demonstrated the application at the Commissioner's office.
+- Developed map-based web interfaces and mobile incident-reporting workflows for field officers and control-room teams.
+- Used Leaflet for location visualization and worked directly with officers on requirements and product demonstrations.
 
 ### IIT Madras · Waste collection routing simulation
-**Project Associate · October 2025 – March 2026**
+**Project Associate**
 
-An interactive web platform for exploring vehicle routing scenarios for city-wide solid waste collection.
-
-- Developed and deployed the simulation interface under the guidance of **Dr. Nikhil Bugalia**.
-- Built workflows to upload datasets, run routing simulations, and visualize optimized vehicle paths.
-- Connected complex routing scenarios to an interface users could explore and understand.
+- Developed and deployed an interactive web interface for exploring waste collection routing scenarios.
+- Built dataset input, simulation controls, and optimized route visualization under the guidance of Dr. Nikhil Bugalia.
 
 ### SGRI · Research data visualization
-**Frontend Developer · August 2023 – February 2024**
+**Frontend Developer**
 
-A data exploration interface developed for Saint Gobain Research India.
+- Built an Excel-to-chart exploration workflow for Saint Gobain Research India.
+- Integrated Plotly.js for interactive, customizable charts and data analysis.
 
-- Built Excel upload workflows for structured data handling.
-- Integrated **Plotly.js** for interactive, customizable charts and data exploration.
-
-## Technologies I work with
+## Skills
 
 | Area | Technologies |
 | :--- | :--- |
-| Web & mobile | React, React Native, TypeScript, JavaScript, HTML, CSS |
-| State & APIs | Redux, Redux-Saga, RTK Query, REST APIs, Axios |
-| Offline & local data | Service Workers, IndexedDB, SQLite, Drizzle ORM |
-| Maps & visualization | Leaflet, Google Maps, Plotly.js, React Flow |
-| UI & tooling | Ant Design, Tailwind CSS, Bootstrap, Formik, Git |
-| Reporting & diagnostics | Node.js, Puppeteer, rrweb, html2canvas |
+| Frontend | React · React Native · TypeScript · JavaScript · HTML · CSS |
+| State & APIs | Redux · Redux-Saga · RTK Query · REST APIs · Axios |
+| UI | Ant Design · Tailwind CSS · Bootstrap · Formik |
+| Maps & visualization | Leaflet · Google Maps · Plotly.js · React Flow |
+| Offline & storage | Service Workers · IndexedDB · SQLite · Drizzle ORM |
+| Reporting & diagnostics | Node.js · Puppeteer · rrweb · html2canvas |
 
-## Engineering interests
+## Experience
 
-- **Offline workflows:** keeping field applications useful with limited connectivity and synchronizing data when a connection returns.
-- **Visual interfaces:** making spatial data, analytics, and connected systems easier to navigate.
-- **Application diagnostics:** combining session replay, screenshots, and API context to investigate errors.
-- **Document automation:** generating PDFs with dynamic content, pagination, and consistent layouts using Puppeteer.
+- **Frontend Developer · Mandark Technologies Private Limited** — April 2023–present
+- **Project Associate · IIT Madras** — October 2025–March 2026
 
-## Beyond implementation
+<details>
+<summary><strong>Product demonstrations, knowledge sharing & education</strong></summary>
 
-- Frontend Developer at **Mandark Technologies Private Limited**, since April 2023.
-- Presented the IEAC audit tool at **IIT Madras and IIT Gandhinagar**, gathering feedback from auditors and industry professionals.
-- Conducted knowledge-sharing sessions on **Puppeteer document services and Clean Code**.
-- B.Tech in Civil Engineering from **SSN College of Engineering**.
+- Demonstrated the IEAC audit tool at IIT Madras and IIT Gandhinagar, engaging with auditors and industry professionals.
+- Presented the traffic monitoring application to Chennai Traffic Police officers at the Commissioner’s office.
+- Conducted knowledge-sharing sessions on Puppeteer document services and Clean Code practices.
+- B.Tech in Civil Engineering, SSN College of Engineering · 2018–2022.
 
-## Let's connect
+</details>
 
-Interested in my work or want to discuss frontend development?
+---
 
-[LinkedIn](https://www.linkedin.com/in/dhanushvarman-j-51b827180/) · [dhanushvarmanj@gmail.com](mailto:dhanushvarmanj@gmail.com) · [View my resume](assets/Dhanush_Resume.pdf)
+For professional enquiries, [email me](mailto:dhanushvarmanj@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/dhanushvarman-j-51b827180/).
