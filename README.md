@@ -17,9 +17,11 @@ With **3+ years of frontend experience**, my work spans energy auditing, traffic
 
 **My focus:** offline capabilities and data synchronization · interactive maps and charts · reliable web and mobile experiences
 
-[Selected work](#selected-professional-work) · [Explore my code](#explore-my-code) · [Technologies](#technologies-i-work-with) · [Contact](#lets-connect)
+[Selected work](#selected-professional-work) · [Technologies](#technologies-i-work-with) · [Contact](#lets-connect)
 
 ## Selected professional work
+
+Professional projects are presented as experience summaries, without source code or links to internal systems.
 
 ### IEAC · Energy audit platform
 **Team Lead & Frontend Developer**
@@ -27,8 +29,8 @@ With **3+ years of frontend experience**, my work spans energy auditing, traffic
 An energy audit platform built for auditors working across web and mobile.
 
 - Led project delivery, client communication, and feature planning.
-- Built the React Native audit app with offline storage and background synchronization using **SQLite and Drizzle ORM**.
-- Helped deliver Version 2 across web and mobile, and conducted auditor training and product walkthroughs.
+- Built the React Native audit app with offline data collection and synchronization.
+- Supported web and mobile releases, auditor training, and product walkthroughs.
 
 ### GCTP · Chennai traffic monitoring
 **Project Owner & Frontend Lead**
@@ -36,7 +38,7 @@ An energy audit platform built for auditors working across web and mobile.
 Web and mobile applications supporting traffic monitoring and incident reporting across Chennai.
 
 - Developed **Leaflet** map interfaces for traffic and location visualization.
-- Built mobile workflows for officers to log in at assigned junctions and report incidents to the control room.
+- Built mobile reporting workflows supporting field officers and control-room teams.
 - Worked directly with officers to understand operational needs and demonstrated the application at the Commissioner's office.
 
 ### IIT Madras · Waste collection routing simulation
@@ -55,13 +57,6 @@ A data exploration interface developed for Saint Gobain Research India.
 
 - Built Excel upload workflows for structured data handling.
 - Integrated **Plotly.js** for interactive, customizable charts and data exploration.
-
-## Explore my code
-
-| Repository | What you can explore |
-| :--- | :--- |
-| [PWA Media Uploader](https://github.com/dhanushvarman/PWA) | A React/Vite media uploader exploring local upload queues, network status, and synchronization with Redux-Saga and localForage. |
-| [React Flow Playground](https://github.com/dhanushvarman/REACT_FLOW) | An interactive diagram playground with custom nodes, connections, and Redux-managed graph state. |
 
 ## Technologies I work with
 
